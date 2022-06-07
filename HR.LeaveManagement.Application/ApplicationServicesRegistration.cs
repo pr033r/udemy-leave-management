@@ -1,4 +1,5 @@
-﻿using Microsoft.Extensions.DependencyInjection;
+﻿using MediatR;
+using Microsoft.Extensions.DependencyInjection;
 using System.Reflection;
 
 namespace HR.LeaveManagement.Application {
@@ -11,12 +12,15 @@ namespace HR.LeaveManagement.Application {
         support popular within dynamic languages today with the performance 
         and compile-time validation of strongly-typed languages.
          */
-        public static void ConfigureApplicationServices(this IServiceCollection services) {
+        public static IServiceCollection ConfigureApplicationServices(this IServiceCollection services) {
 
             services.AddAutoMapper(Assembly.GetExecutingAssembly());
+            services.AddMediatR(Assembly.GetExecutingAssembly());
 
             // variant 2
             //services.AddAutoMapper(typeof(MappingProfile));
+
+            return services;
         }
     }
 }

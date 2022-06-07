@@ -10,3 +10,15 @@ C:\Users\lasakada\Desktop\pr033r\HR-leave-management\HR.LeaveManagement.Domain\o
 C:\Users\lasakada\Desktop\pr033r\HR-leave-management\HR.LeaveManagement.Domain\obj\Debug\net6.0\refint\HR.LeaveManagement.Domain.dll
 C:\Users\lasakada\Desktop\pr033r\HR-leave-management\HR.LeaveManagement.Domain\obj\Debug\net6.0\HR.LeaveManagement.Domain.pdb
 C:\Users\lasakada\Desktop\pr033r\HR-leave-management\HR.LeaveManagement.Domain\obj\Debug\net6.0\ref\HR.LeaveManagement.Domain.dll
+C:\Users\lasakada\Desktop\pr033r\udemy-leave-management\HR.LeaveManagement.Domain\bin\Debug\net6.0\HR.LeaveManagement.Domain.deps.json
+C:\Users\lasakada\Desktop\pr033r\udemy-leave-management\HR.LeaveManagement.Domain\bin\Debug\net6.0\HR.LeaveManagement.Domain.dll
+C:\Users\lasakada\Desktop\pr033r\udemy-leave-management\HR.LeaveManagement.Domain\bin\Debug\net6.0\HR.LeaveManagement.Domain.pdb
+C:\Users\lasakada\Desktop\pr033r\udemy-leave-management\HR.LeaveManagement.Domain\obj\Debug\net6.0\HR.LeaveManagement.Domain.csproj.AssemblyReference.cache
+C:\Users\lasakada\Desktop\pr033r\udemy-leave-management\HR.LeaveManagement.Domain\obj\Debug\net6.0\HR.LeaveManagement.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lasakada\Desktop\pr033r\udemy-leave-management\HR.LeaveManagement.Domain\obj\Debug\net6.0\HR.LeaveManagement.Domain.AssemblyInfoInputs.cache
+C:\Users\lasakada\Desktop\pr033r\udemy-leave-management\HR.LeaveManagement.Domain\obj\Debug\net6.0\HR.LeaveManagement.Domain.AssemblyInfo.cs
+C:\Users\lasakada\Desktop\pr033r\udemy-leave-management\HR.LeaveManagement.Domain\obj\Debug\net6.0\HR.LeaveManagement.Domain.csproj.CoreCompileInputs.cache
+C:\Users\lasakada\Desktop\pr033r\udemy-leave-management\HR.LeaveManagement.Domain\obj\Debug\net6.0\HR.LeaveManagement.Domain.dll
+C:\Users\lasakada\Desktop\pr033r\udemy-leave-management\HR.LeaveManagement.Domain\obj\Debug\net6.0\refint\HR.LeaveManagement.Domain.dll
+C:\Users\lasakada\Desktop\pr033r\udemy-leave-management\HR.LeaveManagement.Domain\obj\Debug\net6.0\HR.LeaveManagement.Domain.pdb
+C:\Users\lasakada\Desktop\pr033r\udemy-leave-management\HR.LeaveManagement.Domain\obj\Debug\net6.0\ref\HR.LeaveManagement.Domain.dll
